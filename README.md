@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/9o9Yso0aXQVTWy3e9L/giphy.gif" alt="Hello World" />
-</p>
-
 # Olá, eu sou a Sabrina! 👋
 
 Amo tecnologia e estou sempre em busca de novos conhecimentos e desafios. Atualmente, estudo **Análise e Desenvolvimento de Sistemas (ADS)** e tenho trabalhado em diversos projetos, tanto no backend quanto no frontend.
